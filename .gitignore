@@ -36,3 +36,5 @@ hs_err_pid*
 bats/
 target/
 pom.xml.versionsBackup
+
+.env
